@@ -1,4 +1,9 @@
 {
   "name": "Firefox webapp #1",
-  "description": "My first Firefox webapp"
+  "description": "My first Firefox webapp",
+  "launch_path": "./app.html",
+  "developer": {
+    "name": "nicelbole",
+	"url": "http://github.com/nicelbole"
+  }
 }
