@@ -1,1 +1,15 @@
-Hello World
+<html>
+	<head>
+		<script type='application/javascript'>
+		function install()
+		{
+			var request = navigator.mozApps.install()
+		}
+		</script>
+		<title>Firefox webapp</title>
+	</head>
+	<body>
+		<p>Hello World</p>
+		<button onclick='install()'>Install</button>
+	</body>
+</html>
