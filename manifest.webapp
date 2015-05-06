@@ -1,0 +1,9 @@
+{
+    "name": "Chattix #000",
+    "package_path" : "http://nicelbole.github.io/firefox-webapp/package.zip",
+    "version": "0.1.0",
+    "developer": {
+        "name": "nicelbole",
+        "url": "http://example.com"
+    }
+}
